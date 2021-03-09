@@ -22,7 +22,7 @@ namespace Graph
 	        {
                 Console.WriteLine(item.Data);
 	        }
-
+            Console.WriteLine();
             Console.ReadKey();
         }
 
